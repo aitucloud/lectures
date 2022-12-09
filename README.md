@@ -68,7 +68,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Для кого: промежуточная лекция, объясняющая синтаксис и тонкости DSL Terraform
 * Презентация: [terraform/language/slides.html](terraform/language/slides.html)
 
-*Запись в процессе выгрузки*
+[![Terraform. Часть 2](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/096ca3cf-2b24-4161-a558-7e1241d5e66c?size=384x&format=webp&gravity=north&lq=false)](https://aitube.kz/en/video?id=ef6c38fd-67df-47cb-95a4-ff1c5a38c935)
 
 ### Прерывания в компьютерах
 
@@ -81,3 +81,13 @@ X-ops KZ - это казахстанское сообщество специал
 
 [![Таир Сабыргалиев про прерывания в компьютерах](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/e9e1a82b-4444-41b0-a603-89ea165c15db?size=480x&format=webp&gravity=north&lq=false)](https://aitube.kz/en/video?id=cf930609-7fcb-4bcc-be9b-ccd7afc3ca7e)
 
+### Как масштабировать Gitlab по Reference Architecture используя Ansible или что такое Gitlab HA
+
+- Переезды между ДЦ / Разная виртуализация в инфре
+- Как решение медленного восстановления из backup-ов (большие данные)
+- Потеря Git-репозиториев при синхронизации в Hot-Cold доступности 
+
+* Дата: 8 декабря 2022, 17:00
+* О спикере: Александр Сухомлинов, DevOps, разработчик, сетевой администратор, Enduro райдер =)
+
+*Запись в процессе выгрузки*
