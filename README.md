@@ -10,7 +10,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Календарь мероприятий: <https://calendar.google.com/calendar/u/0/r?cid=c_5669a870dfdd2f79a754b00bbe0c84ba59da696e0d330de5ade6da89d0ca896b@group.calendar.google.com>
 * Канал с записями лекториев на Aitube: <https://aitube.kz/en/channel?id=e0da9a56-f6de-4519-bd73-917469ca1b24>
 
-## Прошлые лектории
+## Прошедшие лектории
 
 ### BGP, ECMP
 
