@@ -57,7 +57,7 @@ X-ops KZ - это казахстанское сообщество специал
 
 * Дата: 3 ноября 2022, 19:00
 * О спикере: Алексей Колесников, Aitu.Cloud Monitoring Team
-* Презентация: [ddms/ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/ddms/Distributed Monitoring Almaty Алексей.pptx)
+* Презентация: [ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/Distributed Monitoring Almaty Алексей.pptx)
 
 [![Алексей Колесников о Распределенном мониторинге доступности сайтов](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/e64640d6-aa25-4e11-a558-74c501115a29?size=480x&format=webp&gravity=north&lq=false)](https://aitube.kz/en/video?id=20712f43-ee12-42da-9557-187c88e2f456)
 
@@ -100,3 +100,35 @@ X-ops KZ - это казахстанское сообщество специал
 * О спикере: Андрей Попов, преподаватель академии ТОП (ШАГ) по дисциплинам сети, основы ОС. Инженер аутсорсинга в ООО Програмос. Профессионально в ИТ с 1994 года.
 
 *Запись в процессе выгрузки*
+
+## Конференции
+
+Участники нашего сообщества принимают участие в конференциях по профилю деятельности.
+Материалы с таких выступлений мы также публикуем здесь.
+
+### DevOpsDays 2020 Almaty
+
+DevOpsDays — это всемирная серия конференций по разработке, тестированию,
+безопасности и эксплуатации программного обеспечения, которая проводится с 2009 года.
+
+DevOpsDays уже переросло из форума во всемирный нетворкинг специалистов
+и продолжает привлекать новые кадры в индустрию.
+В этом году 11 ноября конференция впервые пройдет в Центральной Азии, Алматы.
+
+* Дата: 11 ноября 2022, 10:00
+* Место проведения: г. Алматы, ул. Байзакова, 280, конференц-зал “Smart Space” и “Open spaces zone”
+* Сайт: [https://devopsdays.kz/](https://devopsdays.kz/)
+
+#### Распределенный мониторинг доступности сайтов
+
+* О спикере: Алексей Колесников, Aitu.Cloud Monitoring Team
+* Презентация: [ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/Distributed Monitoring Almaty Алексей.pptx)
+
+[![Распределенный мониторинг доступности сайтов](https://img.youtube.com/vi/atlBllnNjAQ/0.jpg)](https://www.youtube.com/watch?v=atlBllnNjAQ)
+
+#### Как мы внедряли "Network as a Code" и что из этого вышло
+
+* О спикере: Жанерке Кожабергенова, NetOps Engineer, Aitu.Cloud
+* Презентация: [terraform_aci_fmc/Zhanerke DevOpsDays Almaty 2022.pptx](terraform_aci_fmc/Zhanerke DevOpsDays Almaty 2022.pptx)
+
+[![Как мы внедряли "Network as a Code" и что из этого вышло](https://img.youtube.com/vi/3YJH3aXPPT0/0.jpg)](https://www.youtube.com/watch?v=3YJH3aXPPT0)
