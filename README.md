@@ -17,7 +17,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Дата: 1 июля 2022, 16:00
 * О спикере: Василий Борулько - сетевой инженер, в процессе познания сетевой автоматизацию и всего что с этим связано
 * Для кого: для сетевых инженеров, которые хотят побольше узнать о том как использовать BGP и причём здесь ECMP
-* Презентация [bgp_intro](bgp_intro)
+* Презентация: [bgp_intro](bgp_intro)
 
 [![Протокол BGP и балансировка трафика (ECMP)](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/2a9fde94-faf1-4646-b2d4-b138effe033f?size=640x&format=jpeg&gravity=north&lq=false)](https://aitube.kz/en/video?id=4c8e7f43-be9e-4099-8913-52af1cff9580)
 
