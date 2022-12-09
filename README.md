@@ -40,7 +40,7 @@ X-ops KZ - это казахстанское сообщество специал
 
 * Дата: 30 сентября 2022, 17:00
 * О спикере: Жанерке Кожабергенова - сетевой инженер, работает с оборудованием Cisco, расскажет о первом в Казахстане кейсе автоматизации сети такого масштаба.
-* Презентация: [terraform_aci_fmc/UseCase\ Aitu.Cloud\ .key](terraform_aci_fmc/UseCase\ Aitu.Cloud\ .key)
+* Презентация: [terraform_aci_fmc/UseCase Aitu.Cloud .key](terraform_aci_fmc/UseCase%20Aitu.Cloud%20.key)
 
 [![Жанерке Кожабергенова об автоматизации сети с помощью Terraform](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/ed48af95-d614-4a31-9561-2177b15ad595?size=640x&format=jpeg&gravity=north&lq=false)](https://aitube.kz/en/video?id=ae1ff7d9-8f60-4cb4-bd29-d9d8cb64e8d5)
 
@@ -49,7 +49,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Дата: 20 октября 2022, 19:00
 * О спикере: Аскар Сабыров - Operations Team Lead Smart Cities. Имеет обширный опыт работы с Linux(RHCE), различными технологиями виртуализации и инструментами автоматизации.
 * Для кого: Лекция будет интересна начинающим специалистам.
-* Презентация: [linux_basic_troubleshooting/Базовый траблшутинг в Linux.pptx](linux_basic_troubleshooting/Базовый траблшутинг в Linux.pptx)
+* Презентация: [linux_basic_troubleshooting/Базовый траблшутинг в Linux.pptx](linux_basic_troubleshooting/Базовый%20траблшутинг%20в%20Linux.pptx)
 
 [![Аскар Сабыров про траблшутинг в Linux](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/09c91497-6da6-409a-bf38-e4ddfdb639c5?size=640x&format=jpeg&gravity=north&lq=false)](https://aitube.kz/en/video?id=155f59f5-6a78-438c-bdbb-b024b7bd8c30)
 
@@ -57,7 +57,7 @@ X-ops KZ - это казахстанское сообщество специал
 
 * Дата: 3 ноября 2022, 19:00
 * О спикере: Алексей Колесников, Aitu.Cloud Monitoring Team
-* Презентация: [ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/Distributed Monitoring Almaty Алексей.pptx)
+* Презентация: [ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/Distributed%20Monitoring%20Almaty%20Алексей.pptx)
 
 [![Алексей Колесников о Распределенном мониторинге доступности сайтов](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/e64640d6-aa25-4e11-a558-74c501115a29?size=480x&format=webp&gravity=north&lq=false)](https://aitube.kz/en/video?id=20712f43-ee12-42da-9557-187c88e2f456)
 
@@ -122,13 +122,13 @@ DevOpsDays уже переросло из форума во всемирный �
 #### Распределенный мониторинг доступности сайтов
 
 * О спикере: Алексей Колесников, Aitu.Cloud Monitoring Team
-* Презентация: [ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/Distributed Monitoring Almaty Алексей.pptx)
+* Презентация: [ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/Distributed%20Monitoring%20Almaty%20Алексей.pptx)
 
 [![Распределенный мониторинг доступности сайтов](https://img.youtube.com/vi/atlBllnNjAQ/0.jpg)](https://www.youtube.com/watch?v=atlBllnNjAQ)
 
 #### Как мы внедряли "Network as a Code" и что из этого вышло
 
 * О спикере: Жанерке Кожабергенова, NetOps Engineer, Aitu.Cloud
-* Презентация: [terraform_aci_fmc/Zhanerke DevOpsDays Almaty 2022.pptx](terraform_aci_fmc/Zhanerke DevOpsDays Almaty 2022.pptx)
+* Презентация: [terraform_aci_fmc/Zhanerke DevOpsDays Almaty 2022.pptx](terraform_aci_fmc/Zhanerke%20DevOpsDays%20Almaty%202022.pptx)
 
 [![Как мы внедряли "Network as a Code" и что из этого вышло](https://img.youtube.com/vi/3YJH3aXPPT0/0.jpg)](https://www.youtube.com/watch?v=3YJH3aXPPT0)
