@@ -48,6 +48,7 @@ X-ops KZ - это казахстанское сообщество специал
 
 * Дата: 3 ноября 2022, 19:00
 * О спикере: Алексей Колесников, Aitu.Cloud Monitoring Team
+* Презентация: [ddms/ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/ddms/Distributed Monitoring Almaty Алексей.pptx)
 
 [![Алексей Колесников о Распределенном мониторинге доступности сайтов](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/e64640d6-aa25-4e11-a558-74c501115a29?size=480x&format=webp&gravity=north&lq=false)](https://aitube.kz/en/video?id=20712f43-ee12-42da-9557-187c88e2f456)
 
