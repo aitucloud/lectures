@@ -90,7 +90,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Дата: 8 декабря 2022, 17:00
 * О спикере: Александр Сухомлинов, DevOps, разработчик, сетевой администратор, Enduro райдер =)
 
-*Запись в процессе выгрузки*
+[![Как масштабировать Gitlab по Reference Architecture используя Ansible](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/b43d43af-6c44-4fb0-92e1-831a0b9207df?size=384x&format=webp&gravity=north&lq=false)](https://aitube.kz/en/video?id=61e09957-fbe3-4d5d-91f7-b48fde084dea)
 
 ### Использование виртуальных машин Oracle Virtualbox в моделировании сетевого взаимодействия
 
@@ -99,7 +99,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Дата: 8 декабря 2022, 20:30
 * О спикере: Андрей Попов, преподаватель академии ТОП (ШАГ) по дисциплинам сети, основы ОС. Инженер аутсорсинга в ООО Програмос. Профессионально в ИТ с 1994 года.
 
-*Запись в процессе выгрузки*
+[![Использование виртуальных машин Oracle Virtualbox в моделировании сетевого взаимодействия](https://cdn.static02.aitube.kz/kz.aitudala.aitube.staticaccess/files/961a3814-f38b-4035-92ca-50458fadbbfc?size=640x&format=jpeg&gravity=north&lq=false)](https://aitube.kz/en/video?id=1067e846-6725-42e0-96ea-1ad37b4fe89a)
 
 ## Конференции
 
