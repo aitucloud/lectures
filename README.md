@@ -80,7 +80,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Для кого: интересно будет тем, кто хочет лучше понять как современные компьютеры справляются одновременно с кучей задач, и при этом остаются безопасными и отказоустойчивыми.
 * Презентация: [interrupts/Interrupts.pdf](interrupts/Interrupts.pdf)
 
-[![Таир Сабыргалиев про прерывания в компьютерах](https://img.youtube.com/vi/rMzx4cqLhYg/0.jpg)](https://www.youtube.com/watch?v=MZkdxfGHA2w)
+[![Таир Сабыргалиев про прерывания в компьютерах](https://img.youtube.com/vi/MZkdxfGHA2w/0.jpg)](https://www.youtube.com/watch?v=MZkdxfGHA2w)
 
 ### Как масштабировать Gitlab по Reference Architecture используя Ansible или что такое Gitlab HA
 
