@@ -20,7 +20,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Для кого: для сетевых инженеров, которые хотят побольше узнать о том как использовать BGP и причём здесь ECMP
 * Презентация: [bgp_intro](bgp_intro)
 
-[![Протокол BGP и балансировка трафика (ECMP)](https://img.youtube.com/vi/hpu_EBzwMXw/1.jpg)](https://www.youtube.com/watch?v=hpu_EBzwMXw)
+[![Протокол BGP и балансировка трафика (ECMP)](https://img.youtube.com/vi/hpu_EBzwMXw/0.jpg)](https://www.youtube.com/watch?v=hpu_EBzwMXw)
 
 ### Зачем нужен PostgreSQL — свободная объектно-реляционная система управления базами данных (СУБД)
 
@@ -35,7 +35,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Для кого: интересно будет тем, кто управляет инфраструктурой в облаках и не только, а так же тем, кто еще не пробовал Terraform и тем, кто уже его использует.
 * Презентация: [terraform/basics/slides.html](terraform/basics/slides.html)
 
-[![Сергей Коробицин о Terraform](https://img.youtube.com/vi/QHIQ5uEYbwc/1.jpg)](https://www.youtube.com/watch?v=QHIQ5uEYbwc)
+[![Сергей Коробицин о Terraform](https://img.youtube.com/vi/QHIQ5uEYbwc/0.jpg)](https://www.youtube.com/watch?v=QHIQ5uEYbwc)
 
 ### Автоматизация сети с помощью Terraform. Кейс Smart Cities
 
@@ -43,7 +43,7 @@ X-ops KZ - это казахстанское сообщество специал
 * О спикере: Жанерке Кожабергенова - сетевой инженер, работает с оборудованием Cisco, расскажет о первом в Казахстане кейсе автоматизации сети такого масштаба.
 * Презентация: [terraform_aci_fmc/UseCase Aitu.Cloud .key](terraform_aci_fmc/UseCase%20Aitu.Cloud%20.key)
 
-[![Жанерке Кожабергенова об автоматизации сети с помощью Terraform](https://img.youtube.com/vi/uzEBFQ9XyWo/1.jpg)](https://www.youtube.com/watch?v=uzEBFQ9XyWo)
+[![Жанерке Кожабергенова об автоматизации сети с помощью Terraform](https://img.youtube.com/vi/uzEBFQ9XyWo/0.jpg)](https://www.youtube.com/watch?v=uzEBFQ9XyWo)
 
 ### Базовый траблшутинг в Linux
 
@@ -52,7 +52,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Для кого: Лекция будет интересна начинающим специалистам.
 * Презентация: [linux_basic_troubleshooting/Базовый траблшутинг в Linux.pptx](linux_basic_troubleshooting/Базовый%20траблшутинг%20в%20Linux.pptx)
 
-[![Аскар Сабыров про траблшутинг в Linux](https://img.youtube.com/vi/YV2ExQusylk/1.jpg)](https://www.youtube.com/watch?v=YV2ExQusylk)
+[![Аскар Сабыров про траблшутинг в Linux](https://img.youtube.com/vi/YV2ExQusylk/0.jpg)](https://www.youtube.com/watch?v=YV2ExQusylk)
 
 ### Распределенный мониторинг доступности сайтов
 
@@ -60,7 +60,7 @@ X-ops KZ - это казахстанское сообщество специал
 * О спикере: Алексей Колесников, Aitu.Cloud Monitoring Team
 * Презентация: [ddms/Distributed Monitoring Almaty Алексей.pptx](ddms/Distributed%20Monitoring%20Almaty%20Алексей.pptx)
 
-[![Алексей Колесников о Распределенном мониторинге доступности сайтов](https://img.youtube.com/vi/pwTIz1gIuHM/1.jpg)](https://www.youtube.com/watch?v=pwTIz1gIuHM)
+[![Алексей Колесников о Распределенном мониторинге доступности сайтов](https://img.youtube.com/vi/pwTIz1gIuHM/0.jpg)](https://www.youtube.com/watch?v=pwTIz1gIuHM)
 
 ### Terraform Language
 
@@ -69,7 +69,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Для кого: промежуточная лекция, объясняющая синтаксис и тонкости DSL Terraform
 * Презентация: [terraform/language/slides.html](terraform/language/slides.html)
 
-[![Terraform. Часть 2](https://img.youtube.com/vi/rMzx4cqLhYg/1.jpg)](https://www.youtube.com/watch?v=rMzx4cqLhYg)
+[![Terraform. Часть 2](https://img.youtube.com/vi/rMzx4cqLhYg/0.jpg)](https://www.youtube.com/watch?v=rMzx4cqLhYg)
 
 ### Прерывания в компьютерах
 
@@ -80,7 +80,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Для кого: интересно будет тем, кто хочет лучше понять как современные компьютеры справляются одновременно с кучей задач, и при этом остаются безопасными и отказоустойчивыми.
 * Презентация: [interrupts/Interrupts.pdf](interrupts/Interrupts.pdf)
 
-[![Таир Сабыргалиев про прерывания в компьютерах](https://img.youtube.com/vi/rMzx4cqLhYg/1.jpg)](https://www.youtube.com/watch?v=MZkdxfGHA2w)
+[![Таир Сабыргалиев про прерывания в компьютерах](https://img.youtube.com/vi/rMzx4cqLhYg/0.jpg)](https://www.youtube.com/watch?v=MZkdxfGHA2w)
 
 ### Как масштабировать Gitlab по Reference Architecture используя Ansible или что такое Gitlab HA
 
@@ -91,7 +91,7 @@ X-ops KZ - это казахстанское сообщество специал
 * Дата: 8 декабря 2022, 17:00
 * О спикере: Александр Сухомлинов, DevOps, разработчик, сетевой администратор, Enduro райдер =)
 
-[![Как масштабировать Gitlab по Reference Architecture используя Ansible](https://img.youtube.com/vi/_w6ve0kUliY/1.jpg)](https://www.youtube.com/watch?v=_w6ve0kUliY)
+[![Как масштабировать Gitlab по Reference Architecture используя Ansible](https://img.youtube.com/vi/_w6ve0kUliY/0.jpg)](https://www.youtube.com/watch?v=_w6ve0kUliY)
 
 ### Использование виртуальных машин Oracle Virtualbox в моделировании сетевого взаимодействия
 
@@ -100,21 +100,21 @@ X-ops KZ - это казахстанское сообщество специал
 * Дата: 8 декабря 2022, 20:30
 * О спикере: Андрей Попов, преподаватель академии ТОП (ШАГ) по дисциплинам сети, основы ОС. Инженер аутсорсинга в ООО Програмос. Профессионально в ИТ с 1994 года.
 
-[![Использование виртуальных машин Oracle Virtualbox в моделировании сетевого взаимодействия](https://img.youtube.com/vi/UumLMgU-I0U/1.jpg)](https://www.youtube.com/watch?v=UumLMgU-I0U)
+[![Использование виртуальных машин Oracle Virtualbox в моделировании сетевого взаимодействия](https://img.youtube.com/vi/UumLMgU-I0U/0.jpg)](https://www.youtube.com/watch?v=UumLMgU-I0U)
 
 ### Введение в IPv6
 
 * Дата: 15 февраля 2023, 20:30
 * О спикере: Андрей Попов, преподаватель академии ТОП (ШАГ) по дисциплинам сети, основы ОС. Инженер аутсорсинга в ООО Програмос. Профессионально в ИТ с 1994 года.
 
-[![Введение в IPv6](https://img.youtube.com/vi/30NYfqgik-M/1.jpg)](https://www.youtube.com/watch?v=30NYfqgik-M)
+[![Введение в IPv6](https://img.youtube.com/vi/30NYfqgik-M/0.jpg)](https://www.youtube.com/watch?v=30NYfqgik-M)
 
 ### Использование IPv6 на практике
 
 * Дата: 9 марта 2023, 20:30
 * О спикере: Андрей Попов, преподаватель академии ТОП (ШАГ) по дисциплинам сети, основы ОС. Инженер аутсорсинга в ООО Програмос. Профессионально в ИТ с 1994 года.
 
-[![Использование IPv6 на практике](https://img.youtube.com/vi/nb9vAZP6D6Q/1.jpg)](https://www.youtube.com/watch?v=nb9vAZP6D6Q)
+[![Использование IPv6 на практике](https://img.youtube.com/vi/nb9vAZP6D6Q/0.jpg)](https://www.youtube.com/watch?v=nb9vAZP6D6Q)
 
 ### Дебажим Linux с помощью BPF
 
@@ -122,7 +122,7 @@ X-ops KZ - это казахстанское сообщество специал
 * О спикере: Аскар Сабыров - Operations Team Lead Smart Cities. Имеет обширный опыт работы с Linux(RHCE), различными технологиями виртуализации и инструментами автоматизации.
 * Для кого: Лекция будет интересна начинающим специалистам.
 
-[![Дебажим Linux с помощью BPF](https://img.youtube.com/vi/k8uMW0XLZNU/1.jpg)](https://www.youtube.com/watch?v=k8uMW0XLZNU)
+[![Дебажим Linux с помощью BPF](https://img.youtube.com/vi/k8uMW0XLZNU/0.jpg)](https://www.youtube.com/watch?v=k8uMW0XLZNU)
 
 ## Конференции
 
